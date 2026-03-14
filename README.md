@@ -5,7 +5,7 @@
 
 ### Product Manager & Data Analyst · AI · Sports & Entertainment Tech
 
-*Building fan-facing digital products at the intersection of data, machine learning, and user experience.*
+*Building fan-facing digital products at the intersection of entertainment, data, user experience and technology.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anastasiapapadimitriou-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiapapadimitriou)
 [![Website](https://img.shields.io/badge/Website-anastasiapapadimitriou.com-FDA867?style=flat&logo=safari&logoColor=white)](https://anastasiapapadimitriou.com)
@@ -101,7 +101,7 @@ Led enhancements to an internal AI chatbot for FX rate inquiries — **reduced s
 
 ## 📬 Let's Connect
 
-If you're working on something at the intersection of culture and technology, I'd love to hear from you.
+If you're working on something at the intersection of entertainment, user experience, data and technology, I'd love to hear from you.
 
 <div align="center">
 
