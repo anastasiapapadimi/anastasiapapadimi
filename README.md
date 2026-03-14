@@ -7,7 +7,7 @@
 
 *Building fan-facing digital products at the intersection of data, machine learning, and culture.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anastasia--papadimitriou-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiapapadimitriou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anastasiapapadimitriou-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiapapadimitriou)
 [![Website](https://img.shields.io/badge/Website-anastasiapapadimitriou.com-FDA867?style=flat&logo=safari&logoColor=white)](https://anastasiapapadimitriou.com)
 [![Email](https://img.shields.io/badge/Email-anastasia.papas@outlook.com-FA346F?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:anastasia.papas@outlook.com)
 [![Location](https://img.shields.io/badge/Toronto-ON-259FA9?style=flat&logo=google-maps&logoColor=white)](#)
