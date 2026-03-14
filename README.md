@@ -101,7 +101,7 @@ Led enhancements to an internal AI chatbot for FX rate inquiries — **reduced s
 
 ## 📬 Let's Connect
 
-I'm currently open to **PM and Data/ML roles** in entertainment, sports, music, or film tech. If you're working on something at the intersection of culture and technology, I'd love to hear from you.
+If you're working on something at the intersection of culture and technology, I'd love to hear from you.
 
 <div align="center">
 
