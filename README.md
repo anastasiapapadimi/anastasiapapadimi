@@ -5,7 +5,7 @@
 
 ### Product Manager & Data Analyst · AI · Sports & Entertainment Tech
 
-*Building fan-facing digital products at the intersection of data, machine learning, and culture.*
+*Building fan-facing digital products at the intersection of data, machine learning, and user experience.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anastasiapapadimitriou-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiapapadimitriou)
 [![Website](https://img.shields.io/badge/Website-anastasiapapadimitriou.com-FDA867?style=flat&logo=safari&logoColor=white)](https://anastasiapapadimitriou.com)
@@ -18,9 +18,9 @@
 
 ## 👩‍💻 About Me
 
-- 🏒 **Lead Product Analyst at MLSE** — building analytics for [Fan Access](https://anastasiapapadimitriou.com), Canada's largest sports loyalty platform (500K+ fans)
+- 🏒 **Lead Product Analyst at MLSE** — building analytics for [Fan Access](https://anastasiapapadimitriou.com), Canada's largest sports loyalty platform
 - 🤖 **AI practitioner** — NLP pipelines, XGBoost models, and ML-powered UX improvements in production
-- 🎓 **MMAI candidate** at Smith School of Business, Queen's University (graduating May 2025)
+- 🎓 **MMAI graduate** at Smith School of Business, Queen's University (graduated May 2025)
 - 🎧 **DJ** in my spare time — I apply the same data instincts to reading a room
 - ⚽ Lifelong soccer player · 🎬 Letterboxd enthusiast · 📍 Toronto, ON
 
